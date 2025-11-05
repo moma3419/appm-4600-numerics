@@ -203,6 +203,7 @@ References are to Burden and Faires, 10th edition, unless otherwise noted
     - ~~Demo: [Ch4_RombergIntegration.ipynb](Demos/Ch4_RombergIntegration.ipynb)~~
 - Wed, Nov 5 
   - In-class review
+  - [Review_2025_Midterm2.pdf](Notes/Review_2025_Midterm2.pdf)
   - Evening **midterm exam**, 6 to 7:30 PM, ECCS 1B12
 - Thu, Nov 6, Lab 11
   - TBD, perhaps simple quadrature (using numpy's builtin tools), compared to symbolic (sympy/mathematica), compared to [chebfun](https://www.chebfun.org/) which has the aim to "feel symbolic but run at the speed of numerics"
