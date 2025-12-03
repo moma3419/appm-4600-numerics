@@ -265,15 +265,16 @@ References are to Burden and Faires, 10th edition, unless otherwise noted
 - Mon, Dec 1 
   - Ch 9.3, Power method
     - See [Ch9_Powermethod_part1.pdf](Notes/Ch9_Powermethod_part1.pdf) for basic power method
-    - If time, cover some of [Ch9_Powermethod_part2.pdf](Notes/Ch9_Powermethod_part2.pdf) for how to accelerate convergence and find more than one eigenvalue (i.e., shift-and-invert, deflation, orthogonal iteration and the QR Iteration)
 - Wed, Dec 3 
-  - Ch 9.4, Householder reflections, reduction to tridiagonal or upper Hessenberg
-  - Ch 9.5, QR iteration for eigenvalues
+  - [Ch9_Powermethod_part2.pdf](Notes/Ch9_Powermethod_part2.pdf) for how to accelerate convergence and find more than one eigenvalue (i.e., shift-and-invert, deflation, orthogonal iteration and the QR Iteration)
+  - Demo: [Ch 9 power method demo](Demos/Ch9_PowerMethod.ipynb)
 - Thu, Dec 4, Lab 14
   - TBD
 - Fri, Dec 5 
   - Debrief from lab
-  - TBD / makeup / review session
+  - Ch 9.4, Householder reflections, reduction to tridiagonal or upper Hessenberg
+  - Ch 9.5, QR iteration for eigenvalues
+  - ~~makeup / review session~~
   - ~~Time-permitting, we may cover Ch 7.6 Conjugate Gradient method~~
 
 #### Final exams
